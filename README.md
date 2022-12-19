@@ -29,5 +29,5 @@ Users should be able to:
 - Flexbox
 
 ## Author
-- Code by Kha :frog:
+- Code by Froggy :frog:
 - Frontend Mentor - [:frog:](https://www.frontendmentor.io/profile/MinhKha27)

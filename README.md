@@ -18,9 +18,9 @@ Users should be able to:
 
 ### Links
 
-- Challenge: [Product preview card component]([https://your-live-site-url.com](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa))
+- Challenge: [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
-- Solution: [My solution]([https://your-solution-url.com](https://minhkha27.github.io/product-preview-card-component-main/))
+- Solution: [My solution](https://minhkha27.github.io/product-preview-card-component-main/)
 
 ### Built with
 
@@ -30,4 +30,4 @@ Users should be able to:
 
 ## Author
 - Code by Kha :frog:
-- Frontend Mentor - [:frog:]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/MinhKha27))
+- Frontend Mentor - [:frog:](https://www.frontendmentor.io/profile/MinhKha27)

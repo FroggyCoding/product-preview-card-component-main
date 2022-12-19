@@ -18,8 +18,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Challenge: [Product preview card component]([https://your-live-site-url.com](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa))
+
+- Solution: [My solution]([https://your-solution-url.com](https://minhkha27.github.io/product-preview-card-component-main/))
 
 ### Built with
 
@@ -28,7 +29,5 @@ Users should be able to:
 - Flexbox
 
 ## Author
-
-- Website - [Kha](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [Kha](https://www.twitter.com/yourusername)
+- Code by Kha :frog:
+- Frontend Mentor - [:frog:]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/MinhKha27))
